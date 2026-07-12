@@ -82,4 +82,4 @@ index.html
 
 **Jaider Santiago Posso Mosquera**
 
-Estudiante de Ingeniería en Telecomunicaciones e Informática.
+Estudiante de Desarrollo de Software .
